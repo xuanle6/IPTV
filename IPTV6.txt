@@ -2034,6 +2034,7 @@ CCTV5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=d79923540b82c440681d
 CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️福建频道,#genre#
+东南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226341/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226341/index.m3u8
@@ -2162,6 +2163,7 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-4.m3u8
 福建文体,http://117.27.190.42:9998/tsfile/live/23291_1.m3u8?key=txiptv&playlive=1&authid=0
 福建文体,http://8.138.7.223/tv/fjtv.php?id=10
+海峡卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 福建乡村振兴公共,rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
@@ -2171,6 +2173,17 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 福建经济,rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
 福建综合,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
 三明新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+福建综合,http://e1.woc.iiiya.cn:8888/udp/239.61.2.1:8000
+东南卫视,http://e1.woc.iiiya.cn:8888/udp/239.61.2.132:8708
+福建公共频道,http://e1.woc.iiiya.cn:8888/udp/239.61.2.3:8012
+福建新闻,http://e1.woc.iiiya.cn:8888/udp/239.61.2.4:8018
+福建电视剧,http://e1.woc.iiiya.cn:8888/udp/239.61.2.5:8024
+福建旅游,http://e1.woc.iiiya.cn:8888/udp/239.61.2.6:8030
+福建经济生活,http://e1.woc.iiiya.cn:8888/udp/239.61.2.7:8036
+福建体育,http://e1.woc.iiiya.cn:8888/udp/239.61.2.160:8948
+福建少儿,http://e1.woc.iiiya.cn:8888/udp/239.61.2.9:8048
+海峡卫视,http://e1.woc.iiiya.cn:8888/udp/239.61.2.151:8894
+福建教育频道,http://e1.woc.iiiya.cn:8888/udp/239.61.2.173:9026
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
