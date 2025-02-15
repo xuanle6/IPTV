@@ -2239,6 +2239,38 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 厦门3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
 厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 漳州1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1
+福建电视剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
+福建教育,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226981/index.m3u8?servicetype=1
+福建教育,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1
+福建经济,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
+福建旅游,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
+福建少儿,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
+福建文体,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
+福建乡村振兴公共,http://59.56.212.83:8000/rtp/239.61.2.3:8012
+福建乡村振兴公共,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
+福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8
+福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+福建新闻,http://59.56.212.83:8000/rtp/239.61.2.4:8018
+福建新闻,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
+福建新闻,https://stream1.freetv.fun/f071eb13dcfd59aee52ead1fc082e132079f1877e3b2837a97cae00042720304.m3u8
+福建综合,http://59.56.212.83:8000/rtp/239.61.3.4:9542
+福建综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
+福州1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227157/index.m3u8?servicetype=1
+海峡卫视,http://59.56.212.83:8000/rtp/239.61.2.151:8894
+龙岩综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
+南平1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
+南平2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
+宁德1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227196/index.m3u8?servicetype=1
+平潭综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227218/index.m3u8?servicetype=1
+莆田1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1
+泉州1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1
+三明1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227173/index.m3u8?servicetype=1
+厦门1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
+厦门1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
+厦门2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
+厦门3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
+厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+漳州1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1
 NewTV爱情喜剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
 NewTV潮妈辣婆,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226107/index.m3u8?servicetype=1
 NewTV动作电影,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
@@ -2256,6 +2288,36 @@ NewTV武搏世界,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/322
 NewTV炫舞未来,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1
 NewTV怡伴健康,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
 NewTV中国功夫,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
+NewTV爱情喜剧,http://tvcdn.kkmz.top/itv/2000000003000000010.m3u8?cdn=hnbblive
+NewTV超级电视剧,http://tvcdn.kkmz.top/itv/1000000006000268003.m3u8?cdn=ystenlive
+NewTV超级电影,http://tvcdn.kkmz.top/itv/1000000003000012426.m3u8?cdn=ystenlive
+NewTV超级体育,http://tvcdn.kkmz.top/itv/1000000001000009601.m3u8?cdn=ystenlive
+NewTV潮妈辣婆,http://tvcdn.kkmz.top/itv/2000000003000000018.m3u8?cdn=hnbblive
+NewTV哒啵电竞,http://tvcdn.kkmz.top/itv/1000000006000032327.m3u8?cdn=ystenlive
+NewTV哒啵赛事,http://tvcdn.kkmz.top/itv/1000000001000003775.m3u8?cdn=ystenlive
+NewTV东北热剧,http://tvcdn.kkmz.top/itv/1000000005000266013.m3u8?cdn=ystenlive
+NewTV动作电影,http://tvcdn.kkmz.top/itv/1000000004000018653.m3u8?cdn=ystenlive
+NewTV古装剧场,http://tvcdn.kkmz.top/itv/2000000003000000024.m3u8?cdn=hnbblive
+NewTV黑莓电影,http://tvcdn.kkmz.top/itv/1000000004000019624.m3u8?cdn=ystenlive
+NewTV黑莓动画,http://tvcdn.kkmz.top/itv/1000000004000021734.m3u8?cdn=ystenlive
+NewTV欢乐剧场,http://tvcdn.kkmz.top/itv/1000000005000266012.m3u8?cdn=ystenlive
+NewTV家庭剧场,http://tvcdn.kkmz.top/itv/1000000004000008284.m3u8?cdn=ystenlive
+NewTV金牌综艺,http://tvcdn.kkmz.top/itv/1000000004000026167.m3u8?cdn=ystenlive
+NewTV惊悚悬疑,http://tvcdn.kkmz.top/itv/1000000004000024282.m3u8?cdn=ystenlive
+NewTV精品大剧,http://tvcdn.kkmz.top/itv/1000000004000013968.m3u8?cdn=ystenlive
+NewTV精品纪录,http://tvcdn.kkmz.top/itv/1000000004000013730.m3u8?cdn=ystenlive
+NewTV精品萌宠,http://tvcdn.kkmz.top/itv/1000000006000032328.m3u8?cdn=ystenlive
+NewTV精品体育,http://tvcdn.kkmz.top/itv/1000000004000014634.m3u8?cdn=ystenlive
+NewTV精品综合,http://tvcdn.kkmz.top/itv/1000000004000019008.m3u8?cdn=ystenlive
+NewTV军旅剧场,http://tvcdn.kkmz.top/itv/2000000003000000014.m3u8?cdn=hnbblive
+NewTV军事评论,http://tvcdn.kkmz.top/itv/2000000003000000022.m3u8?cdn=hnbblive
+NewTV魅力潇湘,http://tvcdn.kkmz.top/itv/1000000001000006197.m3u8?cdn=ystenlive
+NewTV明星大片,http://tvcdn.kkmz.top/itv/2000000003000000016.m3u8?cdn=hnbblive
+NewTV农业致富,http://tvcdn.kkmz.top/itv/2000000003000000003.m3u8?cdn=hnbblive
+NewTV武博世界,http://tvcdn.kkmz.top/itv/2000000003000000007.m3u8?cdn=hnbblive
+NewTV炫舞未来,http://tvcdn.kkmz.top/itv/1000000001000000515.m3u8?cdn=ystenlive
+NewTV怡伴健康,http://tvcdn.kkmz.top/itv/1000000005000266011.m3u8?cdn=ystenlive
+NewTV中国功夫,http://tvcdn.kkmz.top/itv/2000000003000000009.m3u8?cdn=hnbblive
 
 
 💓港澳台,#genre#
@@ -5376,80 +5438,3 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 三沙卫视,https://stream1.freetv.fun/739e01ea36ce64b23d330982e442caa57c06c2a44cafaff6c1b6d13b31e01d75.m3u8
 三沙卫视,https://stream1.freetv.fun/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.ctv
 三沙卫视,http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-厦门卫视 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
-厦门1 7M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
-厦门1 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
-厦门2 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
-厦门3 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
-福建乡村振兴公共 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
-福建少儿 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
-福建教育 6M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1
-福建文体 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
-福建新闻 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
-福建旅游 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
-福建电视剧 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
-福建经济 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
-福建综合 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
-南平1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
-南平2 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
-宁德1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227196/index.m3u8?servicetype=1
-龙岩综合 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
-
-福建教育 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226981/index.m3u8?servicetype=1
-三明1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227173/index.m3u8?servicetype=1
-平潭综合 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227218/index.m3u8?servicetype=1
-泉州1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1
-漳州1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1
-福州1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227157/index.m3u8?servicetype=1
-莆田1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1
-
-NewTV中国功夫 2.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
-NewTV军事评论 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1
-NewTV军旅剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225887/index.m3u8?servicetype=1
-NewTV动作电影 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
-NewTV古装剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1
-NewTV家庭剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1
-NewTV怡伴健康 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
-NewTV惊悚悬疑 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
-NewTV武搏世界 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225895/index.m3u8?servicetype=1
-NewTV海外剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
-NewTV潮妈辣婆 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226107/index.m3u8?servicetype=1
-NewTV炫舞未来 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1
-NewTV爱情喜剧 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
-NewTV精品体育 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1
-NewTV精品大剧 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
-NewTV精品纪录 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
-NewTV金牌综艺 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
-
-NewTV爱情喜剧,http://tvcdn.kkmz.top/itv/2000000003000000010.m3u8?cdn=hnbblive
-NewTV超级电视剧,http://tvcdn.kkmz.top/itv/1000000006000268003.m3u8?cdn=ystenlive
-NewTV超级电影,http://tvcdn.kkmz.top/itv/1000000003000012426.m3u8?cdn=ystenlive
-NewTV超级体育,http://tvcdn.kkmz.top/itv/1000000001000009601.m3u8?cdn=ystenlive
-NewTV潮妈辣婆,http://tvcdn.kkmz.top/itv/2000000003000000018.m3u8?cdn=hnbblive
-NewTV哒啵电竞,http://tvcdn.kkmz.top/itv/1000000006000032327.m3u8?cdn=ystenlive
-NewTV哒啵赛事,http://tvcdn.kkmz.top/itv/1000000001000003775.m3u8?cdn=ystenlive
-NewTV东北热剧,http://tvcdn.kkmz.top/itv/1000000005000266013.m3u8?cdn=ystenlive
-NewTV动作电影,http://tvcdn.kkmz.top/itv/1000000004000018653.m3u8?cdn=ystenlive
-NewTV古装剧场,http://tvcdn.kkmz.top/itv/2000000003000000024.m3u8?cdn=hnbblive
-NewTV黑莓电影,http://tvcdn.kkmz.top/itv/1000000004000019624.m3u8?cdn=ystenlive
-NewTV黑莓动画,http://tvcdn.kkmz.top/itv/1000000004000021734.m3u8?cdn=ystenlive
-NewTV欢乐剧场,http://tvcdn.kkmz.top/itv/1000000005000266012.m3u8?cdn=ystenlive
-NewTV家庭剧场,http://tvcdn.kkmz.top/itv/1000000004000008284.m3u8?cdn=ystenlive
-NewTV金牌综艺,http://tvcdn.kkmz.top/itv/1000000004000026167.m3u8?cdn=ystenlive
-NewTV惊悚悬疑,http://tvcdn.kkmz.top/itv/1000000004000024282.m3u8?cdn=ystenlive
-NewTV精品大剧,http://tvcdn.kkmz.top/itv/1000000004000013968.m3u8?cdn=ystenlive
-NewTV精品纪录,http://tvcdn.kkmz.top/itv/1000000004000013730.m3u8?cdn=ystenlive
-NewTV精品萌宠,http://tvcdn.kkmz.top/itv/1000000006000032328.m3u8?cdn=ystenlive
-NewTV精品体育,http://tvcdn.kkmz.top/itv/1000000004000014634.m3u8?cdn=ystenlive
-NewTV精品综合,http://tvcdn.kkmz.top/itv/1000000004000019008.m3u8?cdn=ystenlive
-NewTV军旅剧场,http://tvcdn.kkmz.top/itv/2000000003000000014.m3u8?cdn=hnbblive
-NewTV军事评论,http://tvcdn.kkmz.top/itv/2000000003000000022.m3u8?cdn=hnbblive
-NewTV魅力潇湘,http://tvcdn.kkmz.top/itv/1000000001000006197.m3u8?cdn=ystenlive
-NewTV明星大片,http://tvcdn.kkmz.top/itv/2000000003000000016.m3u8?cdn=hnbblive
-NewTV农业致富,http://tvcdn.kkmz.top/itv/2000000003000000003.m3u8?cdn=hnbblive
-NewTV武博世界,http://tvcdn.kkmz.top/itv/2000000003000000007.m3u8?cdn=hnbblive
-NewTV炫舞未来,http://tvcdn.kkmz.top/itv/1000000001000000515.m3u8?cdn=ystenlive
-NewTV怡伴健康,http://tvcdn.kkmz.top/itv/1000000005000266011.m3u8?cdn=ystenlive
-NewTV中国功夫,http://tvcdn.kkmz.top/itv/2000000003000000009.m3u8?cdn=hnbblive
