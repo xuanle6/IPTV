@@ -2173,6 +2173,9 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 福建经济,rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
 福建综合,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
 三明新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+福建新闻,http://39.135.55.105:6610/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
+福建综合,http://39.135.55.105:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
+法治天地,http://39.135.55.105:6610/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1
 福建综合,http://e1.woc.iiiya.cn:8888/udp/239.61.2.1:8000
 东南卫视,http://e1.woc.iiiya.cn:8888/udp/239.61.2.132:8708
 福建公共频道,http://e1.woc.iiiya.cn:8888/udp/239.61.2.3:8012
