@@ -1,8 +1,5 @@
 ☘️福建频道,#genre#
 福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8
-福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
-福建新闻,http://live.xmcdn.com/live/792/64.m3u8
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建综合,http://110.81.206.138:49231/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
 福建综合,http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0
 福建综合,http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
