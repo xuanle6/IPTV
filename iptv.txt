@@ -3367,11 +3367,3 @@ CCTV16,rtsp://221.7.61.147/PLTV/88888910/224/3221225605/100001000000000600000000
 云南卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225554/10000100000000060000000000107334_0.smil
 云南卫视,rtsp://221.7.61.147/PLTV/88888910/224/3221225554/10000100000000060000000000107334_0.smil
 
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
-Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-Reality Kings HD,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
