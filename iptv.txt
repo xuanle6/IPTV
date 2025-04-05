@@ -82,6 +82,7 @@ CGTN4,http://39.135.55.105:6610/PLTV/88888888/224/3221227103/index.m3u8?servicet
 家庭剧场,http://39.135.55.105:6610/PLTV/88888888/224/3221227457/index.m3u8?servicetype=1
 精品大剧,http://39.135.55.105:6610/PLTV/88888888/224/3221227315/index.m3u8?servicetype=1
 精品纪录,http://39.135.55.105:6610/PLTV/88888888/224/3221227461/index.m3u8?servicetype=1
+军事观察,http://39.135.55.105:6610/PLTV/88888888/224/3221227452/index.m3u8?servicetype=1
 环球奇观,http://39.135.55.105:6610/PLTV/88888888/224/3221227490/index.m3u8?servicetype=1
 中国天气,http://39.135.55.105:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1
 龙,http://39.135.55.105:6610/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1
@@ -109,8 +110,8 @@ jj斗地主,http://39.135.55.105:6610/PLTV/88888888/224/3221227460/index.m3u8?se
 家有购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227311/index.m3u8?servicetype=1
 央广购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227462/index.m3u8?servicetype=1
 优购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227319/index.m3u8?servicetype=1
-三明移动327,http://39.135.55.105:6610/PLTV/88888888/224/3221227327/index.m3u8?servicetype=1
-三明移动452,http://39.135.55.105:6610/PLTV/88888888/224/3221227452/index.m3u8?servicetype=1
+购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227327/index.m3u8?servicetype=1
+
 
 福建移动IPTV,#genre#
 福建新闻,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
