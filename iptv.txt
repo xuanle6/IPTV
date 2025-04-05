@@ -59,6 +59,7 @@ CGTN4,http://39.135.55.105:6610/PLTV/88888888/224/3221227103/index.m3u8?servicet
 江苏卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1
 江西卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1
 辽宁卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1
+辽宁卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227460/index.m3u8?servicetype=1
 内蒙古卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1
 宁夏卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227254/index.m3u8?servicetype=1
 青海卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227119/index.m3u8?servicetype=1
@@ -79,6 +80,8 @@ CGTN4,http://39.135.55.105:6610/PLTV/88888888/224/3221227103/index.m3u8?servicet
 黑莓电影,http://39.135.55.105:6610/PLTV/88888888/224/3221227448/index.m3u8?servicetype=1
 军旅剧场,http://39.135.55.105:6610/PLTV/88888888/224/3221227465/index.m3u8?servicetype=1
 古装剧场,http://39.135.55.105:6610/PLTV/88888888/224/3221227307/index.m3u8?servicetype=1
+潮妈辣婆,http://39.135.55.105:6610/PLTV/88888888/224/3221227311/index.m3u8?servicetype=1
+爱情喜剧,http://39.135.55.105:6610/PLTV/88888888/224/3221227462/index.m3u8?servicetype=1
 家庭剧场,http://39.135.55.105:6610/PLTV/88888888/224/3221227457/index.m3u8?servicetype=1
 精品大剧,http://39.135.55.105:6610/PLTV/88888888/224/3221227315/index.m3u8?servicetype=1
 精品纪录,http://39.135.55.105:6610/PLTV/88888888/224/3221227461/index.m3u8?servicetype=1
@@ -106,9 +109,6 @@ CGTN4,http://39.135.55.105:6610/PLTV/88888888/224/3221227103/index.m3u8?servicet
 优漫卡通,http://39.135.55.105:6610/PLTV/88888888/224/3221227339/index.m3u8?servicetype=1
 优优宝贝,http://39.135.55.105:6610/PLTV/88888888/224/3221227367/index.m3u8?servicetype=1
 黑莓动画,http://39.135.55.105:6610/PLTV/88888888/224/3221227303/index.m3u8?servicetype=1
-jj斗地主,http://39.135.55.105:6610/PLTV/88888888/224/3221227460/index.m3u8?servicetype=1
-家有购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227311/index.m3u8?servicetype=1
-央广购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227462/index.m3u8?servicetype=1
 优购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227319/index.m3u8?servicetype=1
 购物,http://39.135.55.105:6610/PLTV/88888888/224/3221227327/index.m3u8?servicetype=1
 
