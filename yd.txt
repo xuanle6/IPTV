@@ -185,6 +185,11 @@ fj动画6895,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/32212268
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
 
 港澳台,#genre#
+凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
+凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
+凤凰资讯,http://120.55.49.231:3095/rtp/233.50.200.192:5140
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
