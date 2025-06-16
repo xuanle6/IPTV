@@ -205,11 +205,8 @@ fj动画68,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/322122689
 
 💓港澳台,#genre#
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰中文,http://cdn3.163189.xyz/live/fhzw/stream.m3u8
 凤凰香港,http://cdn3.163189.xyz/live/fhhk/stream.m3u8
