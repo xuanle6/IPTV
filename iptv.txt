@@ -391,6 +391,11 @@ CCTV5+,http://110.81.206.138:49231/tsfile/live/23018_1.m3u8?key=txiptv&playlive=
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰中文,http://cdn3.163189.xyz/live/fhzw/stream.m3u8
+凤凰香港,http://cdn3.163189.xyz/live/fhhk/stream.m3u8
+凤凰中文,http://cdn6.101.qzz.io/live/fhzw/stream.m3u8
+凤凰香港,http://cdn6.101.qzz.io/live/fhhk/stream.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20
