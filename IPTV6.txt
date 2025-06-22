@@ -207,25 +207,11 @@ fj动画68,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/322122689
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰中文,http://cdn3.163189.xyz/live/fhzw/stream.m3u8
-凤凰香港,http://cdn3.163189.xyz/live/fhhk/stream.m3u8
-凤凰中文,http://cdn6.101.qzz.io/live/fhzw/stream.m3u8
-凤凰香港,http://cdn6.101.qzz.io/live/fhhk/stream.m3u8
+凤凰资讯,http://ali.hlspull.yximgs.com/live/b3eb78e51f338f383fda94f6eb3879d9.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/cdf029db9a4af764837d80ffc35c1f05.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/e53c434f5a6107d341934ca6ba2081e7.flv
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
-凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20
-凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8b43f8&tk=922ba46651d3
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f86b06&tk=922ba46651d3
-翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8f59d1&tk=922ba46651d3
-TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5c8f9f&tk=922ba46651d3
-东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9230&tk=e640d0a1bf70
-台视新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e64999&tk=922ba46651d3
-中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1b09a9&tk=922ba46651d3
-三立新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3eb2c4&tk=922ba46651d3
-民视新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6207&tk=e640d0a1bf70
-寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3002&tk=e503191f8e20
-亚洲新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5397&tk=e503191f8e20
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 华语新闻,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
@@ -238,9 +224,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 民视新闻,rtmp://f13h.mine.nu/sat/tv051
 台视新闻,rtmp://f13h.mine.nu/sat/tv071
 中视新闻,rtmp://f13h.mine.nu/sat/tv091
-东森电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1959d2&tk=922ba46651d3
-家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c37590&tk=922ba46651d3
-经典电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=fed6bc&tk=922ba46651d3
-黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=db505a&tk=922ba46651d3
+
 
 
