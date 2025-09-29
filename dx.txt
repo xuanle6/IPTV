@@ -351,6 +351,7 @@ CCTV央视,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda
 CCTV央视,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 
 卫视频道,#genre#
+法治天地,https://cc06.tv12.xyz/42.m3u8
 安多卫视,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
