@@ -670,7 +670,16 @@ CCTV央视,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfb
 重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 重庆卫视,http://sh.lnott.top:880/dx46.m3u8
 
-港澳台,#genre#
+💓港澳台,#genre#
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰卫视,https://cdn6.163189.xyz/163189/fhhk
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+华视新闻,rtmp://f13h.mine.nu/sat/tv111
+民视新闻,rtmp://f13h.mine.nu/sat/tv051
+台视新闻,rtmp://f13h.mine.nu/sat/tv071
+中视新闻,rtmp://f13h.mine.nu/sat/tv091
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
