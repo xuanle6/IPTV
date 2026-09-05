@@ -1,7 +1,7 @@
 💓港澳台,#genre#
-凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
-凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
+凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
