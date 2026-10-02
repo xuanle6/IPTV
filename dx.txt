@@ -177,10 +177,9 @@ CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&pl
 CHC家庭影院,http://171.8.86.73:8009/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 港澳台,#genre#
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzx
-凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
-凤凰资讯,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8?zbj
+凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzw
 华视新闻,rtmp://f13h.mine.nu/sat/tv111
