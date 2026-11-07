@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "name": "1.资源线路",
-            "url": "http://47.96.82.41:8/api.json"
-        },
-        {
             "name": "2.饭太硬",
             "url": "http://www.饭太硬.com/tv"
         },
