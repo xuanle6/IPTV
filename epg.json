@@ -1,23 +1,8 @@
 {
-	"urls": [{
-		"url": "http://47.96.82.41:5188/svip/svip.json",
-		"name": "3.网盘线路"
-	},
-	{
-		"url": "http://47.96.82.41:5188/",
-		"name": "6.资源线路"
-	},
-	{
-		"url": "http://47.96.82.41:3/",
-		"name": "7.小哥哥"
-	},
+	"urls": [
 	{
 		"url": "http://v-dragon.com.hk/4k/",
 		"name": "13.4K接口"
-	},
-	{
-		"url": "http://我不是.摸鱼儿.com",
-		"name": "15.摸鱼"
 	},
 	{
 		"url": "https://play.iptv365.org/短剧频道/api.json",
@@ -28,24 +13,8 @@
 		"name": "24.自用"
 	},
 	{
-		"url": "http://xhztv.top/4k.json",
-		"name": "25.小盒子4K"
-	},
-	{
-		"url": "http://ztha.top/TVBox/GYCK.json",
-		"name": "26.挺好多仓"
-	},
-	{
 		"url": "https://ztha.top//TVBox//thdjk.json",
 		"name": "29.挺好接口"
-	},
-	{
-		"url": "http://饭太硬.top/tv",
-		"name": "37.fan1"
-	},
-	{
-		"url": "http://47.96.82.41:6137/xgg.json",
-		"name": "44.小哥="
 	},
 	{
 		"url": "https://jihulab.com//bhjk1//vip//-//raw//main//vip.json",
@@ -64,63 +33,11 @@
 		"name": "66.动漫城"
 	},
 	{
-		"url": "http://home.jundie.top:81/top98.json",
-		"name": "69.俊佬"
-	},
-	{
 		"url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json",
 		"name": "70.观看接口3"
 	},
 	{
-		"url": "https://weixine.net/ysc.json",
-		"name": "73.运输车线"
-	},
-	{
-		"url": "https://api.hgyx.vip/hgyx.json",
-		"name": "74.HG"
-	},
-	{
 		"url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
 		"name": "75.非凡接口"
-	},
-	{
-		"url": "https://jihulab.com/546199810/hx/-/raw/main/qb4k.txt",
-		"name": "79.4K盒子"
-	},
-	{
-		"url": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt",
-		"name": "86.超级仓库"
-	},
-	{
-		"url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-		"name": "88.小米"
-	},
-	{
-		"url": "http://xhztv.top/xhz",
-		"name": "89.小盒子单仓"
-	},
-	{
-		"url": "https://raw.liucn.cc/box/m.json",
-		"name": "92.刘备线路"
-	},
-	{
-		"url": "https://git.acwing.com/abai/tv/-/raw/main/huas.json",
-		"name": "93.花生"
-	},
-	{
-		"url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json",
-		"name": "95.极狐仓库"
-	},
-	{
-		"url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/",
-		"name": "97.摸鱼"
-	},
-	{
-		"url": "https://play.iptv365.org/白嫖/api.json",
-		"name": "99.白嫖线路"
-	},
-	{
-		"url": "https://11405.kstore.space/xiaye/qk4k.json",
-		"name": "100.夏天线路"
 	}]
 }
