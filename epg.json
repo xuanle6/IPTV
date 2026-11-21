@@ -1,400 +1,126 @@
 {
-    "urls": [
-        {
-            "name": "2.饭太硬",
-            "url": "http://www.饭太硬.com/tv"
-        },
-        {
-            "name": "3.网盘线路",
-            "url": "http://47.96.82.41:5188/svip/svip.json"
-        },
-        {
-            "name": "4.OK接口",
-            "url": "http://ok321.top/tv"
-        },
-        {
-            "name": "5.4K定制秒开",
-            "url": "http://121.40.174.45:1777/2509/爱吃鬼.json"
-        },
-        {
-            "name": "6.资源线路",
-            "url": "http://47.96.82.41:5188/"
-        },
-        {
-            "name": "7.小哥哥",
-            "url": "http://47.96.82.41:3/"
-        },
-        {
-            "name": "8.王小二",
-            "url": "http://tvbox.王二小放牛娃.top"
-        },
-        {
-            "name": "9.老司机",
-            "url": "https://gzc.lzo.publicvm.com/cangku.json"
-        },
-        {
-            "name": "10.4K2",
-            "url": "http://我不是.摸鱼儿.top"
-        },
-        {
-            "name": "11.老虎接口",
-            "url": "http://tv.laohu.cool/tvbox.json"
-        },
-        {
-            "name": "12.小程序【软件小哥哥】",
-            "url": "https://gitee.com/SciQ/SQ/raw/master/api.json"
-        },
-        {
-            "name": "13.4K接口",
-            "url": "http://v-dragon.com.hk/4k/"
-        },
-        {
-            "name": "14.欧歌",
-            "url": "http://tv.nxog.top/"
-        },
-        {
-            "name": "15.摸鱼",
-            "url": "http://我不是.摸鱼儿.com"
-        },
-        {
-            "name": "16.肥猫线路",
-            "url": "http://肥猫.com"
-        },
-        {
-            "name": "17.巧记",
-            "url": "http://cdn.qiaoji8.com/tvbox.json"
-        },
-        {
-            "name": "18.饭太硬",
-            "url": "http://www.饭太硬.net/tv"
-        },
-        {
-            "name": "19.短剧线路",
-            "url": "https://play.iptv365.org/短剧频道/api.json"
-        },
-        {
-            "name": "20.饭太硬",
-            "url": "http://www.xn--sss604efuw.com/tv"
-        },
-        {
-            "name": "21.神秘哥哥们",
-            "url": "http://fty.xxooo.cf/tv"
-        },
-        {
-            "name": "22.肥猫",
-            "url": "http://肥猫.com/"
-        },
-        {
-            "name": "23.tvbox和影视仓",
-            "url": "https://132130.v.nxog.top/api1.php?id=3"
-        },
-        {
-            "name": "24.自用",
-            "url": "https://gitee.com/hstsws/ltcw/raw/main/717.json"
-        },
-        {
-            "name": "25.小盒子4K",
-            "url": "http://xhztv.top/4k.json"
-        },
-        {
-            "name": "26.挺好多仓",
-            "url": "http://ztha.top/TVBox/GYCK.json"
-        },
-        {
-            "name": "27.科技天微",
-            "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json"
-        },
-        {
-            "name": "28.宝盒线路",
-            "url": "https://3043.kstore.space/bhvip/bh/box.json"
-        },
-        {
-            "name": "29.挺好接口",
-            "url": "https://ztha.top//TVBox//thdjk.json"
-        },
-        {
-            "name": "30.饭太硬线路",
-            "url": "http://www.饭太硬.com/tv/"
-        },
-        {
-            "name": "31.潇洒",
-            "url": "https://9877.kstore.space/AnotherD/api.json"
-        },
-        {
-            "name": "32.星河线路",
-            "url": "https://10526.kstore.vip/长庚.txt"
-        },
-        {
-            "name": "33.茄子线路",
-            "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json"
-        },
-        {
-            "name": "34.讴歌多仓",
-            "url": "https://xn--dkw0c.e.nxog.top/nxog/ou1.php?b=欧歌"
-        },
-        {
-            "name": "35.多仓4k",
-            "url": "http://rihou.cc:55"
-        },
-        {
-            "name": "36.接口03",
-            "url": "http://pandown.pro/tvbox/tvbox.json"
-        },
-        {
-            "name": "37.fan1",
-            "url": "http://饭太硬.top/tv"
-        },
-        {
-            "name": "38.自制kate",
-            "url": "http://kate.710328.xyz:3000/api/tvbox?format=json"
-        },
-        {
-            "name": "39.欧歌单线路",
-            "url": "http://tv.nxog.top/m/"
-        },
-        {
-            "name": "40.快龙✈️",
-            "url": "https://gitee.com/sd-live/zb/raw/master/js.json"
-        },
-        {
-            "name": "41.4k2",
-            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/"
-        },
-        {
-            "name": "42.放牛娃",
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
-        },
-        {
-            "name": "43.道长",
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-        },
-        {
-            "name": "44.小哥=",
-            "url": "http://47.96.82.41:6137/xgg.json"
-        },
-        {
-            "name": "45.肥猫备用2",
-            "url": "https://6296.kstore.vip/fm.gif"
-        },
-        {
-            "name": "46.小鱼",
-            "url": "http://m3.687166.xyz/aaaa.json"
-        },
-        {
-            "name": "47.香雅情",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-        },
-        {
-            "name": "48.蓝光",
-            "url": "http://nn.qi-simple.top/film.json"
-        },
-        {
-            "name": "49.南风线路",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-        },
-        {
-            "name": "50.小虎斑",
-            "url": "http://hb.小虎斑.site:25252/仅供测试"
-        },
-        {
-            "name": "51.宝宝趣学",
-            "url": "https://jihulab.com//bhjk1//vip//-//raw//main//vip.json"
-        },
-        {
-            "name": "52.多多",
-            "url": "https://bitbucket.org/xduo/cool/raw/main/room.json"
-        },
-        {
-            "name": "53.4",
-            "url": "https://100km.top/0"
-        },
-        {
-            "name": "54.南风",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-        },
-        {
-            "name": "55.毒盒线路",
-            "url": "https://毒盒.com/tv"
-        },
-        {
-            "name": "56.接口04",
-            "url": "https://9280.kstore.space/wex.json"
-        },
-        {
-            "name": "57.小苹果接口",
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
-        },
-        {
-            "name": "58.小米线路",
-            "url": "http://miqk.cc/小米/DEMO.json"
-        },
-        {
-            "name": "59.挺好单接口",
-            "url": "https://zthaa.top/thzx/th.json"
-        },
-        {
-            "name": "60.PG网盘线路",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tvbox.json"
-        },
-        {
-            "name": "61.挺好",
-            "url": "https://ztha.top/TVBox/thdjk.json"
-        },
-        {
-            "name": "62.222",
-            "url": "https://8815.kstore.vip/tvbox/Absurd.json"
-        },
-        {
-            "name": "63.外部",
-            "url": "http://ok321.top/ok"
-        },
-        {
-            "name": "64.驸马接口",
-            "url": "http://fmys.top//fmys.json"
-        },
-        {
-            "name": "65.杰歌",
-            "url": "https://o.nxog.top/apitv.php?id=100&b=o"
-        },
-        {
-            "name": "66.动漫城",
-            "url": "https://www.yingm.cc/dm/dm.json"
-        },
-        {
-            "name": "67.闲鱼定制",
-            "url": "http://jzss.jzss.baby/jvzi.json"
-        },
-        {
-            "name": "68.七星影仓",
-            "url": "https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json"
-        },
-        {
-            "name": "69.俊佬",
-            "url": "http://home.jundie.top:81/top98.json"
-        },
-        {
-            "name": "70.观看接口3",
-            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json"
-        },
-        {
-            "name": "71.🐼PG🐼🚦",
-            "url": "https://tvbox.catvod.com/jsm.json"
-        },
-        {
-            "name": "72.6",
-            "url": "http://124.71.189.194/a.json"
-        },
-        {
-            "name": "73.运输车线",
-            "url": "https://weixine.net/ysc.json"
-        },
-        {
-            "name": "74.HG",
-            "url": "https://api.hgyx.vip/hgyx.json"
-        },
-        {
-            "name": "75.非凡接口",
-            "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json"
-        },
-        {
-            "name": "76.驸马影视",
-            "url": "http://fmys.top/fmys.json"
-        },
-        {
-            "name": "77.南风",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-        },
-        {
-            "name": "78.粉絲仓",
-            "url": "https://www.iyouhun.com/tv/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B8%B8%E9%AD%82%E7%BD%91%E7%BB%9C.json"
-        },
-        {
-            "name": "79.4K盒子",
-            "url": "https://jihulab.com/546199810/hx/-/raw/main/qb4k.txt"
-        },
-        {
-            "name": "80.4k网盘",
-            "url": "http://nn.qi-simple.top/common.json"
-        },
-        {
-            "name": "81.豆豆资源线路",
-            "url": "https://cyao2q.github.io/files/n.json"
-        },
-        {
-            "name": "82.毒盒",
-            "url": "https://xn--8owq8u.com/tv/"
-        },
-        {
-            "name": "83.测试",
-            "url": "https://欧歌.e.nxog.top/api2.php?id=20"
-        },
-        {
-            "name": "84.3",
-            "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json"
-        },
-        {
-            "name": "85.饭太硬二",
-            "url": "http://www.饭太硬.xyz/tv"
-        },
-        {
-            "name": "86.超级仓库",
-            "url": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt"
-        },
-        {
-            "name": "87.影视仓",
-            "url": "http://tv.nxog.top"
-        },
-        {
-            "name": "88.小米",
-            "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
-        },
-        {
-            "name": "89.小盒子单仓",
-            "url": "http://xhztv.top/xhz"
-        },
-        {
-            "name": "90.一万ai",
-            "url": "https://tv2.910501.xyz/api/tvbox?format=json"
-        },
-        {
-            "name": "91.天微VIP线",
-            "url": "clan://localhost/tvboxTW/本地【天微VIP线】"
-        },
-        {
-            "name": "92.刘备线路",
-            "url": "https://raw.liucn.cc/box/m.json"
-        },
-        {
-            "name": "93.花生",
-            "url": "https://git.acwing.com/abai/tv/-/raw/main/huas.json"
-        },
-        {
-            "name": "94.一万ai",
-            "url": "https://tv2.910501.xyz/api/tvbox?format=txt"
-        },
-        {
-            "name": "95.极狐仓库",
-            "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"
-        },
-        {
-            "name": "96.王二小-1",
-            "url": "http://tv.999888987.xyz/"
-        },
-        {
-            "name": "97.摸鱼",
-            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/"
-        },
-        {
-            "name": "98.朱家乐",
-            "url": "https://codeberg.org/a707429614/2/raw/branch/main/123456.txt"
-        },
-        {
-            "name": "99.白嫖线路",
-            "url": "https://play.iptv365.org/白嫖/api.json"
-        },
-        {
-            "name": "100.夏天线路",
-            "url": "https://11405.kstore.space/xiaye/qk4k.json"
-        }
-    ]
+	"urls": [{
+		"url": "http://47.96.82.41:5188/svip/svip.json",
+		"name": "3.网盘线路"
+	},
+	{
+		"url": "http://47.96.82.41:5188/",
+		"name": "6.资源线路"
+	},
+	{
+		"url": "http://47.96.82.41:3/",
+		"name": "7.小哥哥"
+	},
+	{
+		"url": "http://v-dragon.com.hk/4k/",
+		"name": "13.4K接口"
+	},
+	{
+		"url": "http://我不是.摸鱼儿.com",
+		"name": "15.摸鱼"
+	},
+	{
+		"url": "https://play.iptv365.org/短剧频道/api.json",
+		"name": "19.短剧线路"
+	},
+	{
+		"url": "https://gitee.com/hstsws/ltcw/raw/main/717.json",
+		"name": "24.自用"
+	},
+	{
+		"url": "http://xhztv.top/4k.json",
+		"name": "25.小盒子4K"
+	},
+	{
+		"url": "http://ztha.top/TVBox/GYCK.json",
+		"name": "26.挺好多仓"
+	},
+	{
+		"url": "https://ztha.top//TVBox//thdjk.json",
+		"name": "29.挺好接口"
+	},
+	{
+		"url": "http://饭太硬.top/tv",
+		"name": "37.fan1"
+	},
+	{
+		"url": "http://47.96.82.41:6137/xgg.json",
+		"name": "44.小哥="
+	},
+	{
+		"url": "https://jihulab.com//bhjk1//vip//-//raw//main//vip.json",
+		"name": "51.宝宝趣学"
+	},
+	{
+		"url": "https://9280.kstore.space/wex.json",
+		"name": "56.接口04"
+	},
+	{
+		"url": "https://ztha.top/TVBox/thdjk.json",
+		"name": "61.挺好"
+	},
+	{
+		"url": "https://www.yingm.cc/dm/dm.json",
+		"name": "66.动漫城"
+	},
+	{
+		"url": "http://home.jundie.top:81/top98.json",
+		"name": "69.俊佬"
+	},
+	{
+		"url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json",
+		"name": "70.观看接口3"
+	},
+	{
+		"url": "https://weixine.net/ysc.json",
+		"name": "73.运输车线"
+	},
+	{
+		"url": "https://api.hgyx.vip/hgyx.json",
+		"name": "74.HG"
+	},
+	{
+		"url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
+		"name": "75.非凡接口"
+	},
+	{
+		"url": "https://jihulab.com/546199810/hx/-/raw/main/qb4k.txt",
+		"name": "79.4K盒子"
+	},
+	{
+		"url": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt",
+		"name": "86.超级仓库"
+	},
+	{
+		"url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
+		"name": "88.小米"
+	},
+	{
+		"url": "http://xhztv.top/xhz",
+		"name": "89.小盒子单仓"
+	},
+	{
+		"url": "https://raw.liucn.cc/box/m.json",
+		"name": "92.刘备线路"
+	},
+	{
+		"url": "https://git.acwing.com/abai/tv/-/raw/main/huas.json",
+		"name": "93.花生"
+	},
+	{
+		"url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json",
+		"name": "95.极狐仓库"
+	},
+	{
+		"url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/",
+		"name": "97.摸鱼"
+	},
+	{
+		"url": "https://play.iptv365.org/白嫖/api.json",
+		"name": "99.白嫖线路"
+	},
+	{
+		"url": "https://11405.kstore.space/xiaye/qk4k.json",
+		"name": "100.夏天线路"
+	}]
 }
